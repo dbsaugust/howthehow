@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://dbsaugust.github.io/howthehow/sitemap.xml
