@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="/howthehow/assets/xslt/atom.xslt" ?>
-<?xml-stylesheet type="text/css" href="/howthehow/assets/css/atom.css" ?>
+<?xml-stylesheet type="text/xsl" href="/assets/xslt/atom.xslt" ?>
+<?xml-stylesheet type="text/css" href="/assets/css/atom.css" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>https://dbsaugust.github.io/howthehow/</id>
 	<title>How the how did I get here?</title>
-	<updated>2019-02-21T23:09:09-05:00</updated>
+	<updated>2019-03-23T11:26:36-04:00</updated>
 
 	<subtitle></subtitle>
 
